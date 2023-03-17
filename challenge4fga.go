@@ -70,5 +70,5 @@ func main() {
 	fmt.Println("nama:", dataTeman.nama)
 	fmt.Println("alamat:", dataTeman.alamat)
 	fmt.Println("pekerjaan:", dataTeman.pekerjaan)
-	fmt.Println("alasan", dataTeman.alasan)
+	fmt.Println("alasan:", dataTeman.alasan)
 }
