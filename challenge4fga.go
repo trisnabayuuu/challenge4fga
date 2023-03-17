@@ -44,7 +44,7 @@ func GetData(num int) teman {
 		return teman{
 			"mamat",
 			"Jl.papua No.4",
-			"Mahasiswa",
+			"mahasiswa",
 			4,
 			"lulus tepat waktu",
 		}
