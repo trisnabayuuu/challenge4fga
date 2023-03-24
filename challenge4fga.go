@@ -62,7 +62,7 @@ func main() {
 
 	dataTeman := GetData(num)
 	if dataTeman.nama == "" {
-		fmt.Println("data tidak")
+		fmt.Println("data tidak ditemukan")
 		return
 	}
 
